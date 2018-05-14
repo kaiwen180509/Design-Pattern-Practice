@@ -139,10 +139,10 @@ public class Client {
 }
 ```
 #### 執行結果
-> Jhon走路
-> Jhon2跳
-> Jhon2吃東西
-> Jhon2睡覺
+>     Jhon走路
+>     Jhon2跳
+>     Jhon2吃東西
+>     Jhon2睡覺
 
 ### 參考資料
  - [《設計模式之禪》](http://www.books.com.tw/products/CN11096287 "《設計模式之禪》")
