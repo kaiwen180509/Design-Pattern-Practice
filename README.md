@@ -4,6 +4,7 @@
 
 ### 開發環境 - Development Environment
 > - Windows 8.1
+> - Java Version 1.8
 > - Intelij IDEA Community Edition
 
 ### 物件導向設計基本原則 - SOLID Principles
