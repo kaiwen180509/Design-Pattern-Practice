@@ -26,7 +26,7 @@
 接著可以依照人的行為與人的資訊來拆分職責。
 根據上述，類別圖如下：
 
-![image](https://raw.githubusercontent.com/kaiwen180509/Design-Pattern-Practice/master/SOLID/Picture/SRPClassPicture.png)
+![image](./picture/SRPClassPicture.png)
 
 #### IPersonInfo
 ```java
