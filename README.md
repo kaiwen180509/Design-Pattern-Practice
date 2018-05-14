@@ -12,7 +12,7 @@
 
 | 中文名稱  | 英文名稱  | 實作  |
 | ------------- | ------------- | ------------- |
-| 單一職責原則  | Single Responsibility Principle, SRP  | Link |
+| 單一職責原則  | Single Responsibility Principle, SRP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/SingleResponsibilityPrinciple/Notes.md "Link") |
 | 開閉原則  | Open/Closed Principle, OCP  | Link |
 | 里氏替換原則  | Liskov Substitution Principle, LSP  | Link |
 | 迪米特法則<br>( 最少知識原則 ) | Law of Demeter, LoD<br>( Least Knowledge Principle, LKP )  | Link |
