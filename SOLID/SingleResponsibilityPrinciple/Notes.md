@@ -25,7 +25,8 @@
 以人為例，會吃東西、走路、跳還有睡覺，並且會有身高、體重、年紀還有名子。
 接著可以依照人的行為與人的資訊來拆分職責。
 根據上述，類別圖如下：
-![image](https://github.com/kaiwen180509/Design-Pattern-Practice/SOLID/Picture/SRPClassPicture.png)
+
+![image](https://raw.githubusercontent.com/kaiwen180509/Design-Pattern-Practice/master/SOLID/Picture/SRPClassPicture.png)
 
 #### IPersonInfo
 ```java
