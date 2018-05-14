@@ -9,7 +9,7 @@
 ### 物件導向設計基本原則 - SOLID Principles
 >“ 物件導向設計基本原則是一種基礎的開發指南，它使得程式設計師更容易進行軟體維護和擴展。”
 
-| 中文名稱  | 英文名稱  | 連結  |
+| 中文名稱  | 英文名稱  | 實作  |
 | ------------- | ------------- | ------------- |
 | 單一職責原則  | Single Responsibility Principle, SRP  | Link |
 | 開閉原則  | Open/Closed Principle, OCP  | Link |
@@ -22,10 +22,10 @@
 ## 設計模式 - Design Patterns
 >“設計模式是一種思維的方式，也是對於一些常見軟體設計問題與標準解決方案的總結，目的是增強軟體設計適應變化的能力”，分為建立型模式、結構型模式、行為型模式。
 
-####創建型模式 - Creational Patterns
+#### 創建型模式 - Creational Patterns
 >“處理物件建立的設計模式，根據實際情況使用合適的方式建立物件。”
 
-| 中文名稱  | 英文名稱  | 連結  |
+| 中文名稱  | 英文名稱  | 實作  |
 | ------------- | ------------- | ------------- |
 | 單例模式  | Singleton Pattern  | Link  |
 | 工廠模式  | Factory Pattern  | Link  |
@@ -33,10 +33,10 @@
 | 建造者模式  | Builder Pattern  | Link  |
 | 原型模式  | Prototype Pattern  | Link  |
 
-####結構型模式 - Structural Patterns
+#### 結構型模式 - Structural Patterns
 >“藉由一以貫之的方式來了解元件間的關係，以簡化設計。”
 
-| 中文名稱  | 英文名稱  | 連結  |
+| 中文名稱  | 英文名稱  | 實作  |
 | ------------- | ------------- | ------------- |
 | 介面卡模式  | Adapter Pattern  | Link  |
 | 橋接模式  | Bridge Pattern  | Link  |
@@ -46,10 +46,10 @@
 | 享元模式  | Flyweight Pattern  | Link  |
 | 代理模式  | Proxy Pattern  | Link  |
 
-####行為型模式 - Behavioral Patterns
+#### 行為型模式 - Behavioral Patterns
 >“用來識別對象之間的常用交流模式並加以實現，可在進行這些交流活動時增強彈性。”
 
-| 中文名稱  | 英文名稱  | 連結  |
+| 中文名稱  | 英文名稱  | 實作  |
 | ------------- | ------------- | ------------- |
 | 責任鏈模式  | Chain of Responsibility Pattern  | Link  |
 | 命令模式  | Command Pattern  | Link  |
