@@ -18,6 +18,7 @@
 | 迪米特法則<br>( 最少知識原則 ) | Law of Demeter, LoD<br>( Least Knowledge Principle, LKP )  | Link |
 | 介面隔離原則  | Interface Segregation Principle, ISP  | Link |
 | 依賴反轉原則  | Dependency Inversion Principle, DIP  | Link |
+
 詳細內容請參考：[維基百科(Wiki)](https://en.wikipedia.org/wiki/SOLID)
 
 ## 設計模式 - Design Patterns
