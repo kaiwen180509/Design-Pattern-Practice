@@ -1,10 +1,10 @@
 # Design-Pattern-Practice
 > - 本專案為學習設計模式之中，所做的練習與筆記
-- 使用 Java 實踐
+> - 使用 Java 實踐
 
 ### 開發環境 - Development Environment
 > - Windows 8.1
-- Intelij IDEA Community Edition
+> - Intelij IDEA Community Edition
 
 ### 物件導向設計基本原則 - SOLID Principles
 >“ 物件導向設計基本原則是一種基礎的開發指南，它使得程式設計師更容易進行軟體維護和擴展。”
