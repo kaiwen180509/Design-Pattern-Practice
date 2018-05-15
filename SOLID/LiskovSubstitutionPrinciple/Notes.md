@@ -5,7 +5,6 @@
 > - “Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it.”
 > - 所有參照基礎類別的地方必須能透明地使用其衍生類別的物件。
 
-
 >     子類別必須完全實作父類別的方法與屬性
 >     子類別可以有自己的方法與屬性
 >     多載父類別的方法時輸入參數可以被放大
