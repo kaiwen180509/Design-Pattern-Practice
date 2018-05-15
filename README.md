@@ -14,7 +14,7 @@
 | ------------- | ------------- | ------------- |
 | 單一職責原則  | Single Responsibility Principle, SRP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/SingleResponsibilityPrinciple/Notes.md "Link") |
 | 開閉原則  | Open/Closed Principle, OCP  | Link |
-| 里氏替換原則  | Liskov Substitution Principle, LSP  | Link |
+| 里氏替換原則  | Liskov Substitution Principle, LSP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/LiskovSubstitutionPrinciple/Notes.md "Link") |
 | 迪米特法則<br>( 最少知識原則 ) | Law of Demeter, LoD<br>( Least Knowledge Principle, LKP )  | Link |
 | 介面隔離原則  | Interface Segregation Principle, ISP  | Link |
 | 依賴反轉原則  | Dependency Inversion Principle, DIP  | Link |
