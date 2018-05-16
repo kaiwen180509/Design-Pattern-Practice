@@ -1,3 +1,5 @@
+package srp;
+
 public interface IPersonBehavior {
     void walk();
 

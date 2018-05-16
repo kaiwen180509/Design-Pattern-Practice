@@ -1,3 +1,5 @@
+import srp.Person;
+
 public class Client {
     public static void main(String[] args) {
         Person jhon = new Person("Jhon");
