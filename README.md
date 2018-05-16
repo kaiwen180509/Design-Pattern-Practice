@@ -7,8 +7,6 @@
 > - Java Version 1.8
 > - Intelij IDEA Community Edition
 
-[========]
-
 ## 物件導向設計基本原則 - SOLID Principles
 >“ 物件導向設計基本原則是一種基礎的開發指南，它使得程式設計師更容易進行軟體維護和擴展。”
 
@@ -22,8 +20,6 @@
 | 依賴反轉原則  | Dependency Inversion Principle, DIP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/DependencyInversionPrinciple/Notes.md "Link") |
 
 詳細內容請參考：[維基百科(Wiki)](https://en.wikipedia.org/wiki/SOLID)
-
-[========]
 
 ## 設計模式 - Design Patterns
 >“設計模式是一種思維的方式，也是對於一些常見軟體設計問題與標準解決方案的總結，目的是增強軟體設計適應變化的能力”，分為建立型模式、結構型模式、行為型模式。
