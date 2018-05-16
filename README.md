@@ -10,14 +10,14 @@
 ## 物件導向設計基本原則 - SOLID Principles
 >“ 物件導向設計基本原則是一種基礎的開發指南，它使得程式設計師更容易進行軟體維護和擴展。”
 
-| 中文名稱  | 英文名稱  | 實作  |
-| ------------- | ------------- | ------------- |
-| 單一職責原則  | Single Responsibility Principle, SRP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/SingleResponsibilityPrinciple/Notes.md "Link") |
-| 開閉原則  | Open/Closed Principle, OCP  | Link |
-| 里氏替換原則  | Liskov Substitution Principle, LSP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/LiskovSubstitutionPrinciple/Notes.md "Link") |
-| 迪米特法則<br>( 最少知識原則 ) | Law of Demeter, LoD<br>( Least Knowledge Principle, LKP )  | Link |
-| 介面隔離原則  | Interface Segregation Principle, ISP  | Link |
-| 依賴反轉原則  | Dependency Inversion Principle, DIP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/DependencyInversionPrinciple/Notes.md "Link") |
+| 中文名稱  | 英文名稱  | 筆記  | 實作  |
+| ------------- | ------------- | ------------- |------------- |
+| 單一職責原則  | Single Responsibility Principle, SRP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/SingleResponsibilityPrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/SingleResponsibilityPrinciple/Practice "Link") |
+| 開閉原則  | Open/Closed Principle, OCP  | Link | Link  | 
+| 里氏替換原則  | Liskov Substitution Principle, LSP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/LiskovSubstitutionPrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/LiskovSubstitutionPrinciple/Practice "Link") |
+| 迪米特法則<br>( 最少知識原則 ) | Law of Demeter, LoD<br>( Least Knowledge Principle, LKP )  | Link | Link  | 
+| 介面隔離原則  | Interface Segregation Principle, ISP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/InterfaceSegregationPrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/InterfaceSegregationPrinciple/Practice "Link") |
+| 依賴反轉原則  | Dependency Inversion Principle, DIP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/DependencyInversionPrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/DependencyInversionPrinciple/Practice "Link") |
 
 詳細內容請參考：[維基百科(Wiki)](https://en.wikipedia.org/wiki/SOLID)
 
@@ -27,43 +27,43 @@
 #### 創建型模式 - Creational Patterns
 >“處理物件建立的設計模式，根據實際情況使用合適的方式建立物件。”
 
-| 中文名稱  | 英文名稱  | 實作  |
-| ------------- | ------------- | ------------- |
-| 單例模式  | Singleton Pattern  | Link  |
-| 工廠模式  | Factory Pattern  | Link  |
-| 抽象工廠模式  | Abstract Factory Pattern  | Link  |
-| 建造者模式  | Builder Pattern  | Link  |
-| 原型模式  | Prototype Pattern  | Link  |
+| 中文名稱  | 英文名稱  | 筆記  | 實作  |
+| ------------- | ------------- | ------------- |------------- |
+| 單例模式  | Singleton Pattern  | Link  | Link  |
+| 工廠模式  | Factory Pattern  | Link  | Link  | 
+| 抽象工廠模式  | Abstract Factory Pattern  | Link  | Link  | 
+| 建造者模式  | Builder Pattern  | Link  | Link  | 
+| 原型模式  | Prototype Pattern  | Link  | Link  | 
 
 #### 結構型模式 - Structural Patterns
 >“藉由一以貫之的方式來了解元件間的關係，以簡化設計。”
 
-| 中文名稱  | 英文名稱  | 實作  |
-| ------------- | ------------- | ------------- |
-| 介面卡模式  | Adapter Pattern  | Link  |
-| 橋接模式  | Bridge Pattern  | Link  |
-| 组合模式  | Composite Pattern  | Link  |
-| 修飾模式  | Decorator Pattern  | Link  |
-| 外觀模式  | Facade Pattern  | Link  |
-| 享元模式  | Flyweight Pattern  | Link  |
-| 代理模式  | Proxy Pattern  | Link  |
+| 中文名稱  | 英文名稱  | 筆記  | 實作  |
+| ------------- | ------------- | ------------- |------------- |
+| 介面卡模式  | Adapter Pattern  | Link  | Link  | 
+| 橋接模式  | Bridge Pattern  | Link  | Link  | 
+| 组合模式  | Composite Pattern  | Link  | Link  | 
+| 修飾模式  | Decorator Pattern  | Link  | Link  | 
+| 外觀模式  | Facade Pattern  | Link  | Link  | 
+| 享元模式  | Flyweight Pattern  | Link  | Link  | 
+| 代理模式  | Proxy Pattern  | Link  | Link  | 
 
 #### 行為型模式 - Behavioral Patterns
 >“用來識別對象之間的常用交流模式並加以實現，可在進行這些交流活動時增強彈性。”
 
-| 中文名稱  | 英文名稱  | 實作  |
-| ------------- | ------------- | ------------- |
-| 責任鏈模式  | Chain of Responsibility Pattern  | Link  |
-| 命令模式  | Command Pattern  | Link  |
-| 直譯器模式  | Interpreter Pattern  | Link  |
-| 疊代器模式  | Iterator Pattern  | Link  |
-| 中介者模式  | Mediator Pattern  | Link  |
-| 備忘錄模式  | Memento Pattern  | Link  |
-| 觀察者模式  | Observer Pattern  | Link  |
-| 狀態模式  | State Pattern  | Link  |
-| 策略模式  | Strategy Pattern  | Link  |
-| 模板方法模式  | Template Method Pattern  | Link  |
-| 存取者模式  | Visitor Pattern  | Link  |
+| 中文名稱  | 英文名稱  | 筆記  | 實作  |
+| ------------- | ------------- | ------------- |------------- |
+| 責任鏈模式  | Chain of Responsibility Pattern  | Link  | Link  | 
+| 命令模式  | Command Pattern  | Link  | Link  | 
+| 直譯器模式  | Interpreter Pattern  | Link  | Link  | 
+| 疊代器模式  | Iterator Pattern  | Link  | Link  | 
+| 中介者模式  | Mediator Pattern  | Link  | Link  | 
+| 備忘錄模式  | Memento Pattern  | Link  | Link  | 
+| 觀察者模式  | Observer Pattern  | Link  | Link  | 
+| 狀態模式  | State Pattern  | Link  | Link  | 
+| 策略模式  | Strategy Pattern  | Link  | Link  | 
+| 模板方法模式  | Template Method Pattern  | Link  | Link  | 
+| 存取者模式  | Visitor Pattern  | Link  | Link  | 
 
 詳細內容請參考：[維基百科(Wiki)](https://en.wikipedia.org/wiki/Software_design_pattern)
 
