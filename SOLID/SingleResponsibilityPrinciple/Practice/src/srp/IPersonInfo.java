@@ -1,3 +1,5 @@
+package srp;
+
 public interface IPersonInfo {
     void setHeight(float height);
 

@@ -7,17 +7,17 @@
 > - Java Version 1.8
 > - Intelij IDEA Community Edition
 
-### 物件導向設計基本原則 - SOLID Principles
+## 物件導向設計基本原則 - SOLID Principles
 >“ 物件導向設計基本原則是一種基礎的開發指南，它使得程式設計師更容易進行軟體維護和擴展。”
 
 | 中文名稱  | 英文名稱  | 實作  |
 | ------------- | ------------- | ------------- |
-| 單一職責原則  | Single Responsibility Principle, SRP  | Link |
+| 單一職責原則  | Single Responsibility Principle, SRP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/SingleResponsibilityPrinciple/Notes.md "Link") |
 | 開閉原則  | Open/Closed Principle, OCP  | Link |
-| 里氏替換原則  | Liskov Substitution Principle, LSP  | Link |
+| 里氏替換原則  | Liskov Substitution Principle, LSP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/LiskovSubstitutionPrinciple/Notes.md "Link") |
 | 迪米特法則<br>( 最少知識原則 ) | Law of Demeter, LoD<br>( Least Knowledge Principle, LKP )  | Link |
 | 介面隔離原則  | Interface Segregation Principle, ISP  | Link |
-| 依賴反轉原則  | Dependency Inversion Principle, DIP  | Link |
+| 依賴反轉原則  | Dependency Inversion Principle, DIP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/DependencyInversionPrinciple/Notes.md "Link") |
 
 詳細內容請參考：[維基百科(Wiki)](https://en.wikipedia.org/wiki/SOLID)
 

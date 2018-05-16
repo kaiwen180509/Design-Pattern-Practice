@@ -1,3 +1,5 @@
+package srp;
+
 public class Person implements IPersonBehavior, IPersonInfo {
     private String name;
     private int year = 0;
