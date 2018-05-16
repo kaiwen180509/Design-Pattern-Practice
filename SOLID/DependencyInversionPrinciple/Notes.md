@@ -23,12 +23,12 @@
 > 2. 變數的表面型別盡量是抽象類別或介面
 > 3. 任何類別都不應該從具體類別派生
 > 4. 盡量不要複寫抽象類別的方法
-> 5. 結合里氏替換原則來運用
+> 5. 結合[里氏替換原則](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/LiskovSubstitutionPrinciple/Notes.md "里氏替換原則")來運用
 > 
-> 對於每個類別都使用介面或抽象類別來約束，結合里氏替換原則使用後，可以很好的提升程式的兼容性，並且子類別要盡量避免從具體的實作類別來繼承，以及複寫抽象類別的方法，以免造成依賴的穩定性出現問題。
+> 對於每個類別都使用介面或抽象類別來約束，結合[里氏替換原則](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/LiskovSubstitutionPrinciple/Notes.md "里氏替換原則")使用後，可以很好的提升程式的兼容性，並且子類別要盡量避免從具體的實作類別來繼承，以及複寫抽象類別的方法，以免造成依賴的穩定性出現問題。
 
 ## 範例
-以司機開車為例子，建立一個車子介面`ICar`與司機介面`IDriver`，`ICar`有開車`start()`與停車`stop()`的方法，具體的細節交給實作介面的類別公車`Bus`與卡車`Truck`來實現，司機介面`IDriver`的則有行駛`drive`與停下`park`方法，具體的細節也交給類別`Driver`實作，接著結合里氏替換原則，傳遞依賴`ICar`給司機類別`Driver`，司機類別`Driver`只要依賴`ICar`的`start()`與`stop()`的方法來開車與停車就好，依賴總共有三種不同的寫法，分為建構子傳遞依賴、介面傳遞依賴以及Setter方法傳遞依賴。
+以司機開車為例子，建立一個車子介面`ICar`與司機介面`IDriver`，`ICar`有開車`start()`與停車`stop()`的方法，具體的細節交給實作介面的類別公車`Bus`與卡車`Truck`來實現，司機介面`IDriver`的則有行駛`drive`與停下`park`方法，具體的細節也交給類別`Driver`實作，接著結合[里氏替換原則](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/LiskovSubstitutionPrinciple/Notes.md "里氏替換原則")，傳遞依賴`ICar`給司機類別`Driver`，司機類別`Driver`只要依賴`ICar`的`start()`與`stop()`的方法來開車與停車就好，依賴總共有三種不同的寫法，分為建構子傳遞依賴、介面傳遞依賴以及Setter方法傳遞依賴。
 
 ### 建構子傳遞依賴的類別圖與實際範例如下：
 
@@ -212,5 +212,6 @@ public class Client {
 
 ## 參考資料
  - [《設計模式之禪》](http://www.books.com.tw/products/CN11096287 "《設計模式之禪》")
+ - https://en.wikipedia.org/wiki/Liskov_substitution_principle
  - https://en.wikipedia.org/wiki/Dependency_inversion_principle
  - http://teddy-chen-tw.blogspot.tw/2012/01/5dependency-inversion-principle.html
