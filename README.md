@@ -15,7 +15,7 @@
 | 單一職責原則  | Single Responsibility Principle, SRP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/SingleResponsibilityPrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/SingleResponsibilityPrinciple/Practice "Link") |
 | 開閉原則  | Open/Closed Principle, OCP  | Link | Link  | 
 | 里氏替換原則  | Liskov Substitution Principle, LSP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/LiskovSubstitutionPrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/LiskovSubstitutionPrinciple/Practice "Link") |
-| 迪米特法則<br>( 最少知識原則 ) | Law of Demeter, LoD<br>( Least Knowledge Principle, LKP )  | Link | Link  | 
+| 迪米特法則<br>( 最少知識原則 ) | Law of Demeter, LoD<br>( Least Knowledge Principle, LKP )  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/LeastKnowledgePrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/LeastKnowledgePrinciple/Practice "Link") |
 | 介面隔離原則  | Interface Segregation Principle, ISP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/InterfaceSegregationPrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/InterfaceSegregationPrinciple/Practice "Link") |
 | 依賴反轉原則  | Dependency Inversion Principle, DIP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/DependencyInversionPrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/DependencyInversionPrinciple/Practice "Link") |
 
