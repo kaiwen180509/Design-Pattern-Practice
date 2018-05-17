@@ -13,7 +13,7 @@
 | 中文名稱  | 英文名稱  | 筆記  | 實作  |
 | ------------- | ------------- | ------------- |------------- |
 | 單一職責原則  | Single Responsibility Principle, SRP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/SingleResponsibilityPrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/SingleResponsibilityPrinciple/Practice "Link") |
-| 開閉原則  | Open/Closed Principle, OCP  | Link | Link  | 
+| 開閉原則  | Open/Closed Principle, OCP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/OpenClosedPrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/OpenClosedPrinciple/Practice "Link") |
 | 里氏替換原則  | Liskov Substitution Principle, LSP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/LiskovSubstitutionPrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/LiskovSubstitutionPrinciple/Practice "Link") |
 | 迪米特法則<br>( 最少知識原則 ) | Law of Demeter, LoD<br>( Least Knowledge Principle, LKP )  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/LeastKnowledgePrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/LeastKnowledgePrinciple/Practice "Link") |
 | 介面隔離原則  | Interface Segregation Principle, ISP  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/InterfaceSegregationPrinciple/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/SOLID/InterfaceSegregationPrinciple/Practice "Link") |
