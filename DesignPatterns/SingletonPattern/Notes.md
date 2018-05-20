@@ -143,7 +143,7 @@ public class Client {
 
         System.out.println("----------送信-懶漢方式----------");
         // 找到王良，把信給他去送
-        WangLiang wangLiang = singleton.WangLiang.getInstance();
+        WangLiang wangLiang = WangLiang.getInstance();
         wangLiang.send(letter);
 
         System.out.println("----------送信-餓漢方式----------");
