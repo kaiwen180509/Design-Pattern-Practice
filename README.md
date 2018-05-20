@@ -29,7 +29,7 @@
 
 | 中文名稱  | 英文名稱  | 筆記  | 實作  |
 | ------------- | ------------- | ------------- |------------- |
-| 單例模式  | Singleton Pattern  | Link  | Link  |
+| 單例模式  | Singleton Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/SingletonPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/SingletonPattern/Practice "Link") |
 | 工廠模式  | Factory Pattern  | Link  | Link  | 
 | 抽象工廠模式  | Abstract Factory Pattern  | Link  | Link  | 
 | 建造者模式  | Builder Pattern  | Link  | Link  | 
