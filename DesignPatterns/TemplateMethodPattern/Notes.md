@@ -289,15 +289,15 @@ public class Client {
 
     private static void doExtended() {
         System.out.println("-----專業攝影師-----");
-        AdeptPhotographerExtend adept = new AdeptPhotographerExtend();
+        AdeptPhotographerExtend adeptPhotographer = new AdeptPhotographerExtend();
         // 專業攝影師不需要倒數
-        adept.useTimer(false);
-        adept.snap();
+        adeptPhotographer.useTimer(false);
+        adeptPhotographer.snap();
 
         System.out.println("-----新手攝影師-----");
-        Photographer amateurPhotographer = new AmateurPhotographer();
+        AmateurPhotographerExtend amateurPhotographer = new AmateurPhotographerExtend();
         // 新手攝影師需要倒數
-        adept.useTimer(true);
+        amateurPhotographer.useTimer(true);
         amateurPhotographer.snap();
     }
 }
