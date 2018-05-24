@@ -20,7 +20,7 @@
 ## 實踐
 > 1. 結合[模板方法模式](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/TemplateMethodPattern/Notes.md "模板方法模式")
 > 
-> 與[工廠模式](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/FactoryPattern/Notes.md "工廠模式")同為創建型模式，但建造者模式的關注點在於基本方法的呼叫順序，而工廠模式的關注點則是物件的建造，兩者之間有明顯的差異，因此創造者模式與模板方法模式結合會帶來更靈活的應用。
+> 與[工廠模式](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/FactoryPattern/Notes.md "工廠模式")同為創建型模式，但建造者模式的關注點在於基本方法的呼叫順序，而工廠模式的關注點則是物件的建造，兩者之間有明顯的差異，另外創造者模式與模板方法模式結合會帶來更靈活的應用。
 
 ## 參與者
 > + 產品 - Product
