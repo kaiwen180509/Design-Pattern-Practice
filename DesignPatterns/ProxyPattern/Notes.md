@@ -355,7 +355,7 @@ public class ProxyWomanDriver implements IWomanDriver {
 }
 ```
 ### 動態代理模式：
-[橫切面導向程式設計（Aspect-Oriented Programming, AOP）](https://en.wikipedia.org/wiki/Aspect-oriented_programming "橫切面導向程式設計（Aspect-Oriented Programming, AOP）")核心就是採用動態代理機制，而動態代理與靜態代理之間的差異，在於動態代理不會改變原有的代理類別，再不修改既有的架構下增加對被代理者物件的控制，而靜態代理一旦需要改變某種業務邏輯，就需要進入代理者的類別修改，有此可見動態代理的好處。
+[橫切面導向程式設計（Aspect-Oriented Programming, AOP）](https://en.wikipedia.org/wiki/Aspect-oriented_programming "橫切面導向程式設計（Aspect-Oriented Programming, AOP）")核心就是採用動態代理機制，而動態代理與靜態代理之間的差異，在於動態代理不會改變原有的代理類別，在不修改既有的架構下增加對被代理者物件的控制，而靜態代理一旦需要改變某種業務邏輯，就需要進入代理者的類別修改，有此可見動態代理的好處。
 
 依舊以代理駕駛的例子為例，首先建立一個類別`DriverIH`，這個類別實作 [JDK](https://docs.oracle.com/javase/8/docs/api/java/lang/reflect/InvocationHandler.html "JDK") 提供的介面`InvocationHandler`，`invoke()`方法主要是負責對被代理的物件進行處理，當動態代理呼叫被代理物件的方法時，會自動執行此`invoke()`方法。
 
