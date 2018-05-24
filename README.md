@@ -46,7 +46,7 @@
 | 修飾模式  | Decorator Pattern  | Link  | Link  | 
 | 外觀模式  | Facade Pattern  | Link  | Link  | 
 | 享元模式  | Flyweight Pattern  | Link  | Link  | 
-| 代理模式  | Proxy Pattern  | Link  | Link  | 
+| 代理模式  | Proxy Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/ProxyPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/ProxyPattern/Practice "Link") |
 
 #### 行為型模式 - Behavioral Patterns
 >“用來識別對象之間的常用交流模式並加以實現，可在進行這些交流活動時增強彈性。”
