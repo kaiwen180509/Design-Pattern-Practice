@@ -33,7 +33,7 @@
 | 工廠模式  | Factory Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/FactoryPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/FactoryPattern/Practice "Link") |
 | 抽象工廠模式  | Abstract Factory Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/AbstractFactoryPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/AbstractFactoryPattern/Practice "Link") |
 | 建造者模式  | Builder Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/BuilderPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/BuilderPattern/Practice "Link") |
-| 原型模式  | Prototype Pattern  [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/PrototypePattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/PrototypePattern/Practice "Link") |
+| 原型模式  | Prototype Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/PrototypePattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/PrototypePattern/Practice "Link") |
 
 #### 結構型模式 - Structural Patterns
 >“藉由一以貫之的方式來了解元件間的關係，以簡化設計。”
