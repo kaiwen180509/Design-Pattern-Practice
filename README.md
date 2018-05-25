@@ -57,7 +57,7 @@
 | 命令模式  | Command Pattern  | Link  | Link  | 
 | 直譯器模式  | Interpreter Pattern  | Link  | Link  | 
 | 疊代器模式  | Iterator Pattern  | Link  | Link  | 
-| 中介者模式  | Mediator Pattern  | Link  | Link  | 
+| 中介者模式  | Mediator Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/MediatorPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/MediatorPattern/Practice "Link") |
 | 備忘錄模式  | Memento Pattern  | Link  | Link  | 
 | 觀察者模式  | Observer Pattern  | Link  | Link  | 
 | 狀態模式  | State Pattern  | Link  | Link  | 
