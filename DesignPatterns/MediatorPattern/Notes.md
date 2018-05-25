@@ -34,7 +34,7 @@
 ## 範例
 有一個餐廳，裡面有一個主廚、學徒、服務生，一般點餐到上菜的流程是這樣子的，服務生接到訂單，讓廚師先預備，也讓學徒去準備食材，學徒準備好食材，讓主廚開始煮，廚師煮完讓服務生上菜，並且讓學徒來洗碗，這個流程剛好可以使用中介者模式來協調。
 
-首先，建立一個中介者`ConcreteMediator`，繼承自`Mediator`，在`Mediator`類別中定義好了同事角色，分別是繼承自`Colleague`的主廚`Chef`、學徒`Apprentice`、服務生`Waiter`，而`Colleague`類別主要傳遞中介者`Mediator`讓個個同事角色知道中介者，以便溝通，這個中介者主要負責協調主廚`Chef`、學徒`Apprentice`、服務生`Waiter`之間的溝通協調，讓工作順利進行，以下是類別圖與實際程式碼：
+首先，建立一個中介者`ConcreteMediator`，繼承自`Mediator`，在`Mediator`類別中定義好了同事角色，分別是繼承自`Colleague`的主廚`Chef`、學徒`Apprentice`、服務生`Waiter`，而`Colleague`類別主要傳遞中介者`Mediator`讓各個同事角色知道中介者，以便溝通，這個中介者主要負責協調主廚`Chef`、學徒`Apprentice`、服務生`Waiter`之間的溝通協調，讓工作順利進行，以下是類別圖與實際程式碼：
 
 ![image](https://raw.githubusercontent.com/kaiwen180509/Design-Pattern-Practice/master/DesignPatterns/MediatorPattern/Picture/MediatorPatternPicture.png)
 
