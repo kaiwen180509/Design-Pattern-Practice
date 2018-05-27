@@ -53,7 +53,7 @@
 
 | 中文名稱  | 英文名稱  | 筆記  | 實作  |
 | ------------- | ------------- | ------------- |------------- |
-| 責任鏈模式  | Chain of Responsibility Pattern  | Link  | Link  | 
+| 責任鏈模式  | Chain of Responsibility Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/ChainOfResponsibilityPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/ChainOfResponsibilityPattern/Practice "Link") |
 | 命令模式  | Command Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/CommandPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/CommandPattern/Practice "Link") |
 | 直譯器模式  | Interpreter Pattern  | Link  | Link  | 
 | 疊代器模式  | Iterator Pattern  | Link  | Link  | 
