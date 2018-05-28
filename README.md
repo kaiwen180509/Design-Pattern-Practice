@@ -43,7 +43,7 @@
 | 介面卡模式  | Adapter Pattern  | Link  | Link  | 
 | 橋接模式  | Bridge Pattern  | Link  | Link  | 
 | 组合模式  | Composite Pattern  | Link  | Link  | 
-| 修飾模式  | Decorator Pattern  | Link  | Link  | 
+| 修飾模式  | Decorator Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/DecoratorPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/DecoratorPattern/Practice "Link") |
 | 外觀模式  | Facade Pattern  | Link  | Link  | 
 | 享元模式  | Flyweight Pattern  | Link  | Link  | 
 | 代理模式  | Proxy Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/ProxyPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/ProxyPattern/Practice "Link") |
