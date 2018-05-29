@@ -61,7 +61,7 @@
 | 備忘錄模式  | Memento Pattern  | Link  | Link  | 
 | 觀察者模式  | Observer Pattern  | Link  | Link  | 
 | 狀態模式  | State Pattern  | Link  | Link  | 
-| 策略模式  | Strategy Pattern  | Link  | Link  | 
+| 策略模式  | Strategy Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/StrategyPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/StrategyPattern/Practice "Link") |
 | 模板方法模式  | Template Method Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/TemplateMethodPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/TemplateMethodPattern/Practice "Link") |
 | 存取者模式  | Visitor Pattern  | Link  | Link  | 
 
