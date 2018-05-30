@@ -56,7 +56,7 @@
 | 責任鏈模式  | Chain of Responsibility Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/ChainOfResponsibilityPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/ChainOfResponsibilityPattern/Practice "Link") |
 | 命令模式  | Command Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/CommandPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/CommandPattern/Practice "Link") |
 | 直譯器模式  | Interpreter Pattern  | Link  | Link  | 
-| 疊代器模式  | Iterator Pattern  | Link  | Link  | 
+| 疊代器模式  | Iterator Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/IteratorPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/IteratorPattern/Practice "Link") |
 | 中介者模式  | Mediator Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/MediatorPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/MediatorPattern/Practice "Link") |
 | 備忘錄模式  | Memento Pattern  | Link  | Link  | 
 | 觀察者模式  | Observer Pattern  | Link  | Link  | 
