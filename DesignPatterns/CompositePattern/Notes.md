@@ -11,7 +11,7 @@
 > + 葉子構件 - Leaf
 >     * 最小的單位，下面不會再有其他分支
 > + 樹枝構件 - Composite
->     * 作用為組合葉子構件 Leaf 與樹枝構件 Composite，以形成一個數狀結構
+>     * 作用為組合葉子構件 Leaf 與樹枝構件 Composite，以形成一個樹狀結構
 
 ## 優點
 > 1. 高層模組容易使用
@@ -23,19 +23,19 @@
 ## 缺點
 > 1. 與[依賴反轉原則（DIP）](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/DependencyInversionPrinciple/Notes.md "依賴反轉原則（DIP）")衝突
 >
-> 在進行節點的使用時，是直接定義樹葉構件與樹枝構件的實作類別，而非依賴抽象，與[依賴反轉原則（DIP）](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/DependencyInversionPrinciple/Notes.md "依賴反轉原則（DIP）")衝突。
+> 在進行節點的使用時，是直接定義葉子構件與樹枝構件的實作類別，而非依賴抽象，與[依賴反轉原則（DIP）](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/DependencyInversionPrinciple/Notes.md "依賴反轉原則（DIP）")衝突。
 
 ## 使用時機
 > 1. 維護或展示“部分 - 整體”關係的時候
 > 2. 從一個整體獨立出部分功能或模組的情況
 
 ## 實踐
-> **组合模式**分為兩種，一種是安全模式，另一種是透明模式，兩者之間的差異在於安全模式是把組合的方法放到樹枝構件，優點與缺點如上所述；而透明模式則是放在抽象構件裡面，好處是使用者使用時可以透過抽象構件來依賴，遵守[依賴反轉原則（DIP）](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/DependencyInversionPrinciple/Notes.md "依賴反轉原則（DIP）")，避免了安全模式的缺點，但缺點則是樹葉構件與樹枝構件的架構相同，處理節點時如果沒有處理好，會相當不安全；這裡以安全模式來舉例。
+> **组合模式**分為兩種，一種是安全模式，另一種是透明模式，兩者之間的差異在於安全模式是把組合的方法放到樹枝構件，優點與缺點如上所述；而透明模式則是放在抽象構件裡面，好處是使用者使用時可以透過抽象構件來依賴，遵守[依賴反轉原則（DIP）](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/SOLID/DependencyInversionPrinciple/Notes.md "依賴反轉原則（DIP）")，避免了安全模式的缺點，但缺點則是葉子構件與樹枝構件的架構相同，處理節點時如果沒有處理好，會相當不安全；這裡以安全模式來舉例。
 
 ## 範例
 一間超商通常都會有很多個販售區塊，不同的區塊放置不同的商品種類，有的地方是放飲料類的商品，有的則是食物類的商品，也有餅乾零食類的區域，在這種情況之下，如果使用一般的設計會很複雜，但是如果使用組合模式會非常簡單，以下就以這個情形來舉例說明。
 
-首先需要先定義好構建`Component`的抽象類別，裡面定義所有節點共有的屬性以及需要實作的各個方法，接著實作樹葉構件`Product`的類別，這個類別是最小的單位，也就是商品，最後是樹枝的構件`SalesArea`類別，裡面具體實作了處理構件的組合，以及父節點的設定等，以下是類別圖與實際程式碼：
+首先需要先定義好構建`Component`的抽象類別，裡面定義所有節點共有的屬性以及需要實作的各個方法，接著實作葉子構件`Product`的類別，這個類別是最小的單位，也就是商品，最後是樹枝的構件`SalesArea`類別，裡面具體實作了處理構件的組合，以及父節點的設定等，以下是類別圖與實際程式碼：
 
 ![image](https://raw.githubusercontent.com/kaiwen180509/Design-Pattern-Practice/master/DesignPatterns/CompositePattern/Picture/CompositePatternPicture.png)
 
