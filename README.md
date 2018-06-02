@@ -63,7 +63,7 @@
 | 狀態模式  | State Pattern  | Link  | Link  | 
 | 策略模式  | Strategy Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/StrategyPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/StrategyPattern/Practice "Link") |
 | 模板方法模式  | Template Method Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/TemplateMethodPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/TemplateMethodPattern/Practice "Link") |
-| 存取者模式  | Visitor Pattern  | Link  | Link  | 
+| 存取者模式  | Visitor Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/VisitorPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/VisitorPattern/Practice "Link") |
 
 詳細內容請參考：[維基百科(Wiki)](https://en.wikipedia.org/wiki/Software_design_pattern)
 
