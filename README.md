@@ -41,7 +41,7 @@
 | 中文名稱  | 英文名稱  | 筆記  | 實作  |
 | ------------- | ------------- | ------------- |------------- |
 | 介面卡模式  | Adapter Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/AdapterPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/AdapterPattern/Practice "Link") |
-| 橋接模式  | Bridge Pattern  | Link  | Link  | 
+| 橋接模式  | Bridge Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/BridgePattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/BridgePattern/Practice "Link") |
 | 组合模式  | Composite Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/CompositePattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/CompositePattern/Practice "Link") |
 | 修飾模式  | Decorator Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/DecoratorPattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/DecoratorPattern/Practice "Link") |
 | 門面模式  | Facade Pattern  | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/blob/master/DesignPatterns/FacadePattern/Notes.md "Link") | [Link](https://github.com/kaiwen180509/Design-Pattern-Practice/tree/master/DesignPatterns/FacadePattern/Practice "Link") |
